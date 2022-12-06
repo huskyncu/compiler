@@ -177,7 +177,7 @@ other .*
 
 int main(void)
 {
-    //function call
+    //2022_BA2_A
     yylex();
     return 0;
 }
