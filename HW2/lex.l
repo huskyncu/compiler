@@ -46,7 +46,7 @@ QQ     ^\t*.*$
 \n  {
     if(yyleng==1 && yytext[0]=='\n')
     {  
-        printf("match%s","$$");   
+        //printf("match%s","$$");   
         //printf("\n");
     }        
 }
